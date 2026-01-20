@@ -1,7 +1,7 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
 name: NGINX Proxy Manager 2
 version: "1.0.0"
-slug: proxymanage
+slug: proxymanager
 description: "Manage Nginx proxy hosts with a simple, powerful interface"
 arch:
   - aarch64
